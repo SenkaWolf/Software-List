@@ -29,7 +29,7 @@ Icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 ## Applications
 
-
-
 ![---](https://github.com/senkawolf/Software-List/blob/main/media/line.png?raw=true)
-[![Browser Extensions](https://github.com/senkawolf/Software-List/blob/main/media/up50.png?raw=true) Back to Top](#Senka-Wolf's-Recommended-Software-List)
+
+> [!TIP]
+> ![Back to Top](https://github.com/senkawolf/Software-List/blob/main/media/up25.png?raw=true) [Back to Top](#Senka-Wolfs-Recommended-Software-List)
