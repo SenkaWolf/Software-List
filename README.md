@@ -1,5 +1,7 @@
 # 📋 Senka Wolf's Recommended Software List
-A collection of my recommended and favorite software across different platforms, including macOS, Windows, web browser extensions, and development tools.
+A collection of my recommended and favorite software across different platforms, including macOS, Windows, web browser extensions, and development tools. Each time I perform a fresh installation of a new operating system, I refer to this list and select the programs to install.
+
+*The applications listed below are organized alphabetically.*
 
 > - *Items marked with ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) are open-source software and link to the source code.* 
 > - *Items marked with ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) are free.*
@@ -75,6 +77,7 @@ A collection of my recommended and favorite software across different platforms,
 
 #### Email
 - [Proton Mail Client](https://proton.me/mail/download) → End-to-end encrypted email for Proton Mail users. ![Paid](https://github.com/senkawolf/Software-List/blob/main/media/icons/paid14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
+- SimpleLogin
 
 
 #### Games
@@ -92,10 +95,16 @@ A collection of my recommended and favorite software across different platforms,
 - [Hetzner - Storage Box](https://www.hetzner.com/storage/storage-box/) → Self-managed online storage which supports FTP, SAMBA/SCP, SSH/rsync/BorgBackup and WebDAV. ![Paid](https://github.com/senkawolf/Software-List/blob/main/media/icons/paid14.png?raw=true) ![Service](https://github.com/senkawolf/Software-List/blob/main/media/icons/service14.png?raw=true)
 
 #### Productivity
+- Adobe Acrobat Reader → PDF reader and editor.
 - [Chocolatey](https://community.chocolatey.org) → A package manager for Windows. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [f.lux](https://justgetflux.com) → Automatically adjust your computer screen to match lighting. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
+- Logitech G HUB
+- Notion
 - [Optimizer](https://github.com/hellzerg/optimizer) → A advanced configuration utility designed to enhance your privacy and security on Windows ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
+- [Stream Deck](https://www.elgato.com/uk/en/s/downloads) → Client software to work with the Elgato Stream Deck devices. [^streamdeck]
 - [Winutil (Chris Titus Tech's Windows Utility)](https://github.com/ChrisTitusTech/winutil) → Windows Utility to Install Programs, Tweaks, Fixes, and Updates. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
+
+[^streamdeck]: Either Stream Deck [IOS](https://apps.apple.com/gb/app/elgato-stream-deck-mobile/id1440014184) or [Android](https://play.google.com/store/apps/details?id=com.corsair.android.streamdeck&hl=en-US&pli=1) mobile app or Stream Deck device is needed.
 
 #### Terminal
 - MobaXterm → Xserver and tabbed SSH client.
@@ -104,37 +113,56 @@ A collection of my recommended and favorite software across different platforms,
 
 #### Text Editors
 - ~~[Atom](https://github.com/atom/atom) → A hackable text editor for the 21st Century. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)~~ [^atom]
-- Notepad++
-- Visual Studio Code
+- [Notepad++](https://notepad-plus-plus.org/) → A source code editor which supports several programming languages. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
+- Sublime Text 3
+- [Visual Studio Code](https://code.visualstudio.com/) →  Build and debug modern web and cloud applications. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 
-[^atom]: Atom is End of Life and has been archived. Older versions are still available to use.
+[^atom]: Atom is End of Life as of 2022 and has been archived. Older versions are still available to use.
 
 #### Utilities
 - AnyDeck
+- balenaEtcher - Flash OS images to SD cards and USB drives, safely and easily.
+- [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) → A utility that monitors and displays the health of your hard drive, including basic information, S.M.A.R.T. values, and disk temperature. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
+- NordPass
+- NordVPN
+- Rufus
 - ShareX
-- YaTQA
+- Ventoy
 - [Windhawk](https://windhawk.net/) → Customization for Windows programs. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - WinDirStat
-- [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) → A utility that monitors and displays the health of your hard drive, including basic information, S.M.A.R.T. values, and disk temperature. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
+- YaTQA
 
 #### Video
 - Fraps
+- [NVIDIA ShadowPlay](https://www.nvidia.com/en-me/software/nvidia-app/www.nvidia.com/en-gb/geforce/geforce-experience/shadowplay/) → Hardware-accelerated screen recording utility available as part of Nvidia's GeForce Experience and Nvidia App softwares for GeForce GPUs. ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
+- OBS
 - Sony Vegas Pro
 - [VLC](https://www.videolan.org/vlc/) → Multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 
 #### Web Browser
-- Zen Browser
 - Brave
+- Zen Browser
 
 ![---](https://github.com/senkawolf/Software-List/blob/main/media/icons/line.png?raw=true)
 
 ## Browser Extensions
+- [2FAS](https://2fas.com) - [Chromium](https://chromewebstore.google.com/detail/2fas-two-factor-authentic/dbfoemgnkgieejfkaddieamagdfepnff?pli=1)/[Firefox](https://addons.mozilla.org/en-US/firefox/addon/2fas-two-factor-authentication/) → One click and your 2FA token is automatically entered. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Browser Extensions](https://github.com/senkawolf/Software-List/blob/main/media/icons/extensions14.png?raw=true) [^2fas]
+- [AdGuard Adblocker](https://adguard.com) - [Chromium](https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg)/[Firefox](https://addons.mozilla.org/en-US/firefox/addon/adguard-adblocker/) → Blocks against advertising on Facebook, Youtube and more plus pop-ups. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Browser Extensions](https://github.com/senkawolf/Software-List/blob/main/media/icons/extensions14.png?raw=true)
+- [Chrome Mask](https://github.com/denschub/chrome-mask) - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chrome-mask/) → A one-click toggle to spoof as Chrome in Firefox. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Browser Extensions](https://github.com/senkawolf/Software-List/blob/main/media/icons/extensions14.png?raw=true)
+- ClearURLs
+- NordPass
+- NordVPN
+- Privacy Badger
+- SimpleLogin
+- SponsorBlock for YouTube
+
+[^2fas]: Requires mobile app to pair with extension.
 
 ![---](https://github.com/senkawolf/Software-List/blob/main/media/icons/line.png?raw=true)
 
 ## Miscellaneous
 
-- ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true) [Show Hidden Files](/docs/WINDOWS-SHOW-HIDDEN-FILES.md) 
+- [Show Hidden Files](/docs/WINDOWS-SHOW-HIDDEN-FILES.md) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 
 ![---](https://github.com/senkawolf/Software-List/blob/main/media/icons/line.png?raw=true)
 
