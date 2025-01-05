@@ -1,3 +1,5 @@
+**[![ ](https://github.com/senkawolf/Software-List/blob/main/media/icons/prev25.png?raw=true) Back](/README.md)**
+
 # Here's how to display hidden files and folders.
 
 ### Windows 11
