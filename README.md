@@ -33,7 +33,7 @@ A collection of my recommended and favorite software across different platforms,
     - [Online Storage](#Online-Storage)
     - [Productivity](#Productivity)
     - [Terminal](#Terminal)
-    - [Text Editors](#TextEditors)
+    - [Text Editors](#Text-Editors)
     - [Utilities](#Utilities)
     - [Video](#Video)
     - [Web Browser](#Web-Browser)
@@ -107,7 +107,7 @@ A collection of my recommended and favorite software across different platforms,
 - Notepad++
 - Visual Studio Code
 
-[^atom] Atom is End of Life and has been archived. Older versions are still available to use.
+[^atom]: Atom is End of Life and has been archived. Older versions are still available to use.
 
 #### Utilities
 - AnyDeck
