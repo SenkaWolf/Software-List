@@ -8,6 +8,8 @@
 
     2. Select View > Show > Hidden items.
 
+![---](https://github.com/senkawolf/Software-List/blob/main/media/icons/line.png?raw=true)
+
 ### Windows 10
 
     1. Open File Explorer from the taskbar. 
@@ -15,6 +17,8 @@
     2. Select View > Options > Change folder and search options.
 
     3. Select the View tab and, in Advanced settings, select Show hidden files, folders, and drives and OK.
+
+![---](https://github.com/senkawolf/Software-List/blob/main/media/icons/line.png?raw=true)
 
 ### Windows 8.1 
 
@@ -25,6 +29,8 @@
     3. Select the View tab.
 
     4. Under Advanced settings, select Show hidden files, folders, and drives, and then select OK.
+
+![---](https://github.com/senkawolf/Software-List/blob/main/media/icons/line.png?raw=true)
 
 ### Windows 7 
 
