@@ -12,6 +12,18 @@ My preferred theme is the Dracula theme from [theme-park.dev](https://docs.theme
 
 ![---](https://github.com/senkawolf/Software-List/blob/main/media/icons/line.png?raw=true)
 
+### Additional .htaccess lines
+
+I updated the `.htaccess` file to ensure the server returns a 403 Forbidden error if someone tries to access the `config.php` file.
+
+```
+<Files "config.php">  
+  Require all denied
+</Files>
+```
+
+![---](https://github.com/senkawolf/Software-List/blob/main/media/icons/line.png?raw=true)
+
 ### Additional config.php lines
 To change the app install name, simply add the following line to the `config.php` file located in the root directory. Detailed documentation is available [here](https://xbackbone.app/configuration.html#change-app-install-name).
 
@@ -30,9 +42,6 @@ Be sure to include the `defer` attribute to ensure the JavaScript loads only aft
 
 #### Contents of `xbackbone-inject.js` file:
 ```js
-// Change the page's title
-document.title = "Example Images";
-
 // Change the favicon
 let link = document.querySelector('link[rel="icon"]');
 if (link) {
