@@ -33,10 +33,22 @@ To change the app install name, simply add the following line to the `config.php
 
 ![---](https://github.com/senkawolf/Software-List/blob/main/media/icons/line.png?raw=true)
 
+### Adding robots.txt
+Create a robots.txt in the root directory of your install and in the txt file put:
+```
+User-agent: *
+Disallow: /
+```
+
+![---](https://github.com/senkawolf/Software-List/blob/main/media/icons/line.png?raw=true)
+
 ### Custom HTML Head content
 On the system settings page, you can add custom HTML content to the `<header>`. I created a JavaScript file, hosted it, and referenced it in the header.
 
-`<script src="https://example.com/assets/js/xbackbone-inject.js" defer></script>`
+```html
+<script src="https://example.com/assets/js/xbackbone-inject.js" defer></script>
+<meta name='robots' content='noindex,follow' />
+```
 
 Be sure to include the `defer` attribute to ensure the JavaScript loads only after the page has fully loaded.
 
