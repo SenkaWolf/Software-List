@@ -87,16 +87,20 @@ A collection of my recommended and favorite software across different platforms,
 #### Games
 - [Battle.net](https://shop.battle.net/) → A digital distribution service and storefront for Blizzard Entertainment. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [Epic Games](https://epicgames.com/) → A digital distribution service and storefront for video games. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
+- [OpevIV](https://openiv.com/)
 - [Origin](https://www.ea.com/ea-app) → A digital distribution service and storefront for EA. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
+- ![Star](https://github.com/senkawolf/Software-List/blob/main/media/icons/star14.png?raw=true) [RetroArch](https://www.retroarch.com/) → A frontend for emulators, game engines and media players. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true) [^retroarch]
 - ![Star](https://github.com/senkawolf/Software-List/blob/main/media/icons/star14.png?raw=true) [Steam](https://store.steampowered.com/) → A digital distribution service and storefront for video games. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [Uplay](https://www.ubisoft.com/en-gb/ubisoft-connect) → A digital distribution service and storefront for Ubisoft. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [Virtual Desktop Streamer](https://www.vrdesktop.net/) → Use your VR headset tp connect wirelessly to your computer(s) to watch movies, browse the web, play 2D games or stream PCVR games. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [WeMod](https://www.wemod.com/) → World's best application for modding thousands of single-player PC games. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 
+[^retroarch]: You can see my RetroArch setup [here](https://github.com/SenkaWolf/Senkas-Retroarch-Setup).
+
 #### Graphics
-- Adobe Photoshop
-- GIMP
-- Paint.NET
+- [Adobe Photoshop](https://www.adobe.com/uk/products/photoshop.html) → A photo editing and raster graphic design software which allows users to create, edit, and manipulate various graphics as well as digital art. ![Paid](https://github.com/senkawolf/Software-List/blob/main/media/icons/paid14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
+- [GIMP](https://www.gimp.org/) → A Photoshop-like program that's free. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
+- [Paint.NET]() → General-purpose raster graphics editor program. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 
 #### Online Storage
 - [Hetzner - Storage Box](https://www.hetzner.com/storage/storage-box/) → Self-managed online storage which supports FTP, SAMBA/SCP, SSH/rsync/BorgBackup and WebDAV. ![Paid](https://github.com/senkawolf/Software-List/blob/main/media/icons/paid14.png?raw=true) ![Service](https://github.com/senkawolf/Software-List/blob/main/media/icons/service14.png?raw=true)
@@ -117,13 +121,13 @@ A collection of my recommended and favorite software across different platforms,
 [^streamdeck]: Either Stream Deck [IOS](https://apps.apple.com/gb/app/elgato-stream-deck-mobile/id1440014184) or [Android](https://play.google.com/store/apps/details?id=com.corsair.android.streamdeck&hl=en-US&pli=1) mobile app or Stream Deck device is needed.
 
 #### Security
-- Malwarebytes
-- NordVPN
+- [Malwarebytes](https://www.malwarebytes.com) → Advanced anti-malware software.
+- [NordVPN](https://nordvpn.com) → Lithuanian VPN service. ![Paid](https://github.com/senkawolf/Software-List/blob/main/media/icons/paid14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 
 #### Terminal
-- MobaXterm → Xserver and tabbed SSH client.
-- Putty → SSH and telnet client.
-- Termius
+- [MobaXterm](https://mobaxterm.mobatek.net/) → Xserver and tabbed SSH client. ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
+- [Putty](https://www.putty.org) → SSH and telnet client. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
+- [Termius](https://termius.com/) → Secure and easy-to-use SSH client ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true) 
 
 #### Text Editors
 - ~~[Atom](https://github.com/atom/atom) → A hackable text editor for the 21st Century. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)~~ [^atom]
@@ -137,6 +141,7 @@ A collection of my recommended and favorite software across different platforms,
 - AnyDeck
 - balenaEtcher - Flash OS images to SD cards and USB drives, safely and easily.
 - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) → A utility that monitors and displays the health of your hard drive, including basic information, S.M.A.R.T. values, and disk temperature. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
+- [File Juggler](https://www.filejuggler.com/) → Automatically renamed, moved and deleted files based on rules. ![Paid](https://github.com/senkawolf/Software-List/blob/main/media/icons/paid14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [LocalSend](https://github.com/localsend/localsend)
 - NordPass
 - Rufus
@@ -146,7 +151,7 @@ A collection of my recommended and favorite software across different platforms,
 - WinDirStat
 - YaTQA
 
-[^sharex]: You'll need a service to upload you're images too. I've always self-hosted [ShareX-Custom-Upload](https://github.com/JoeGandy/ShareX-Custom-Upload).
+[^sharex]: You'll need a service to upload you're images too. I've always self-hosted [ShareX-Custom-Upload](https://github.com/JoeGandy/ShareX-Custom-Upload) for the past 5 years but this repo isn't being supported anymore. I'd recommended [XBackBone](https://xbackbone.app/) as a alternative, I will be migrating over.
 
 #### Video
 - Fraps
@@ -158,8 +163,8 @@ A collection of my recommended and favorite software across different platforms,
 - [VLC](https://www.videolan.org/vlc/) → Multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 
 #### Web Browser
-- Brave
-- Zen Browser
+- [Brave](https://brave.com) → Fast, secure, and privacy-focused Chromium browser that blocks ads and trackers, and offers a built-in VPN, AI assistant, and search engine. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true) 
+- ![Star](https://github.com/senkawolf/Software-List/blob/main/media/icons/star14.png?raw=true) [Zen Browser](https://zen-browser.app/) → Open-source fork of Mozilla Firefox, with its main focus being privacy and customizability. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 
 ![---](https://github.com/senkawolf/Software-List/blob/main/media/icons/line.png?raw=true)
 
@@ -182,6 +187,7 @@ A collection of my recommended and favorite software across different platforms,
 
 - [How To Setup Windows 11 PC Without Microsoft Account](/docs/WINDOWS-SETUP-WITHOUT-MICROSOFT-ACCOUNT.md) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [Show Hidden Files](/docs/WINDOWS-SHOW-HIDDEN-FILES.md) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
+- [XBackBone Config & Setup](/docs/XBACKBONE-MY-CONFIG-SETTINGS.md)
 
 ![---](https://github.com/senkawolf/Software-List/blob/main/media/icons/line.png?raw=true)
 
