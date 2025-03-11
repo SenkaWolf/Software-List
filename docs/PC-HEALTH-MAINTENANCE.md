@@ -6,6 +6,6 @@
 Use the keyboard shortcut `Ctrl + Shift + Windows + B`.
 
 ### File Cleanup
-Run Disk Cleanup which is built into Windows every so often. This helps remove temporary files and cached files.
+Run Disk Cleanup which is built into Windows every so often. This helps remove temporary and cached files.
 
 Find it in your start menu or press `Windows + R` then type `cleanmgr` and hit enter.
