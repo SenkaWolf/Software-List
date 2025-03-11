@@ -145,7 +145,9 @@ A collection of my recommended and favorite software across different platforms,
 - [LocalSend](https://github.com/localsend/localsend)
 - NordPass
 - Rufus
-- ShareX [^sharex] 
+- RustDesk
+- ShareX [^sharex]
+- SignalRGB
 - Ventoy
 - [Windhawk](https://windhawk.net/) → Customization for Windows programs. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - WinDirStat
