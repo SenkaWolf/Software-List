@@ -155,7 +155,7 @@ A collection of my recommended and favorite software across different platforms,
 
 [^sharex]: You'll need a service to upload you're images too. I've always self-hosted [ShareX-Custom-Upload](https://github.com/JoeGandy/ShareX-Custom-Upload) for the past 5 years but this repo isn't being supported anymore. I'd recommended [XBackBone](https://xbackbone.app/) as a alternative, I will be migrating over.
 
-[^Windhawk]: See my list of mods and config [here](/docs/WINDHAWK-MY-SETUP.md).
+[^Windhawk]: See my list of mods and config [here](https://github.com/SenkaWolf/Software-List/blob/main/docs/WINDHAWK-MY-SETUP.md).
 
 #### Video
 - Fraps
