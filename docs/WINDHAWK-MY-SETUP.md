@@ -12,7 +12,13 @@ The indented list is the mod settings, these can be imported by installing the m
     - `{"theme":"TranslucentShell","controlStyles[0].target":"Grid#ControlCenterRegion","controlStyles[0].styles[0]":"Margin=0,0,0,700","resourceVariables[0].variableKey":"","resourceVariables[0].value":""}`
         - Where `"Margin=0,0,0,700"` the `700` must be changed to suit your monitor.
 - [Windows 11 Start Menu Styler](https://windhawk.net/mods/windows-11-start-menu-styler)
-    - `{"theme":"Everblush","controlStyles[0].target":"","controlStyles[0].styles[0]":"","webContentStyles[0].target":"","webContentStyles[0].styles[0]":"","webContentCustomJs":"","resourceVariables[0].variableKey":"","resourceVariables[0].value":""}`
+    - `{"theme":"TranslucentStartMenu","controlStyles[0].target":"","controlStyles[0].styles[0]":"","webContentStyles[0].target":"","webContentStyles[0].styles[0]":"","webContentCustomJs":"","resourceVariables[0].variableKey":"","resourceVariables[0].value":""}`
+- [Windows 11 Taskbar Styler](https://windhawk.net/mods/windows-11-taskbar-styler)
+    - `{"theme":"TranslucentTaskbar","controlStyles[0].target":"","controlStyles[0].styles[0]":"","resourceVariables[0].variableKey":"","resourceVariables[0].value":""}`
 
 ### Preview
-![---](https://github.com/senkawolf/Software-List/blob/main/media/screenshots/windhawk-preview.jpg?raw=true)
+The top most image shows the settings outlined above, the others can be achieve by tweaking the settings yourself.
+
+![Current Setup preview](https://github.com/senkawolf/Software-List/blob/main/media/screenshots/windhawk-preview2.jpg?raw=true)
+
+![Old preview](https://github.com/senkawolf/Software-List/blob/main/media/screenshots/windhawk-preview.jpg?raw=true)
