@@ -149,11 +149,13 @@ A collection of my recommended and favorite software across different platforms,
 - ShareX [^sharex]
 - SignalRGB
 - Ventoy
-- [Windhawk](https://windhawk.net/) → Customization for Windows programs. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
+- ![Star](https://github.com/senkawolf/Software-List/blob/main/media/icons/star14.png?raw=true) [Windhawk](https://windhawk.net/) → Customization for Windows programs. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true) [^Windhawk]
 - WinDirStat
 - YaTQA
 
 [^sharex]: You'll need a service to upload you're images too. I've always self-hosted [ShareX-Custom-Upload](https://github.com/JoeGandy/ShareX-Custom-Upload) for the past 5 years but this repo isn't being supported anymore. I'd recommended [XBackBone](https://xbackbone.app/) as a alternative, I will be migrating over.
+
+[^Windhawk]: See my list of mods and config [here](/docs/WINDHAWK-MY-SETUP.md).
 
 #### Video
 - Fraps
@@ -190,6 +192,7 @@ A collection of my recommended and favorite software across different platforms,
 - [How To Setup Windows 11 PC Without Microsoft Account](/docs/WINDOWS-SETUP-WITHOUT-MICROSOFT-ACCOUNT.md) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [Show Hidden Files](/docs/WINDOWS-SHOW-HIDDEN-FILES.md) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [XBackBone Config & Setup](/docs/XBACKBONE-MY-CONFIG-SETTINGS.md)
+- [Windhawk Setup](/docs/WINDHAWK-MY-SETUP.md)
 
 ![---](https://github.com/senkawolf/Software-List/blob/main/media/icons/line.png?raw=true)
 
