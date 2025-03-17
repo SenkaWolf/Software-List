@@ -16,6 +16,11 @@ The indented list is the mod settings, these can be imported by installing the m
 - [Windows 11 Taskbar Styler](https://windhawk.net/mods/windows-11-taskbar-styler)
     - `{"theme":"TranslucentTaskbar","controlStyles[0].target":"","controlStyles[0].styles[0]":"","resourceVariables[0].variableKey":"","resourceVariables[0].value":""}`
 
+
+Bonus: Cursor theme I use: https://www.deviantart.com/antiden/art/macOS-cursors-for-Windows-701736062
+
+![---](https://github.com/senkawolf/Software-List/blob/main/media/icons/line.png?raw=true)
+
 ### Preview
 The top most image shows the settings outlined above, the others can be achieve by tweaking the settings yourself.
 
