@@ -140,8 +140,10 @@ A collection of my recommended and favorite software across different platforms,
 #### Utilities
 - AnyDeck
 - balenaEtcher - Flash OS images to SD cards and USB drives, safely and easily.
+- CPU-Z
 - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) → A utility that monitors and displays the health of your hard drive, including basic information, S.M.A.R.T. values, and disk temperature. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [File Juggler](https://www.filejuggler.com/) → Automatically renamed, moved and deleted files based on rules. ![Paid](https://github.com/senkawolf/Software-List/blob/main/media/icons/paid14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
+- HWInfo - A comprehensive system information and diagnostic tool that offers an extensive range of features.
 - [LocalSend](https://github.com/localsend/localsend)
 - NordPass
 - Rufus
