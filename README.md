@@ -52,6 +52,7 @@ A collection of my recommended and favorite software across different platforms,
 
 #### Audio
 - [Cider](https://cider.sh/) → Cross-platform Apple Music experience. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
+- [Sleeve 2](https://replay.software/sleeve) → ![Paid](https://github.com/senkawolf/Software-List/blob/main/media/icons/paid14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true)
 - [Voicemeeter](https://vb-audio.com/Voicemeeter/index.htm) → Audio Mixer Application endowed with Virtual Audio Device used as Virtual I/O to mix and manage any audio sources from or to any audio devices or applications. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [Voicemod](https://www.voicemod.net/) → Real time AI voice changer & soundboard. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [Audacity](https://www.audacityteam.org/) → Recording and editing sounds. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
@@ -108,8 +109,11 @@ A collection of my recommended and favorite software across different platforms,
 #### Productivity
 - [Adobe Acrobat Reader](https://www.adobe.com/acrobat/pdf-reader.html) → PDF reader and editor. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [Chocolatey](https://community.chocolatey.org) → A package manager for Windows. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
+- [Dropover](https://dropoverapp.com/) → ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true)
 - [f.lux](https://justgetflux.com) → Automatically adjust your computer screen to match lighting. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [Logitech G HUB](https://www.logitechg.com/en-gb/innovation/g-hub.html) → Customize and optimize your Logitech G gaming gear, such as mice, keyboards, headsets, and webcams. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true) [^logitechghub]
+- [Maccy](https://maccy.app/) → ![Paid](https://github.com/senkawolf/Software-List/blob/main/media/icons/paid14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true)
+- [Magnet](https://magnet.crowdcafe.com/) → ![Paid](https://github.com/senkawolf/Software-List/blob/main/media/icons/paid14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true)
 - [Notion](https://www.notion.com) → Productivity and note-taking web application. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true) 
 - [Optimizer](https://github.com/hellzerg/optimizer) → A advanced configuration utility designed to enhance your privacy and security on Windows. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - ![Star](https://github.com/senkawolf/Software-List/blob/main/media/icons/star14.png?raw=true) [Stream Deck](https://www.elgato.com/uk/en/s/downloads) → Client software to work with the Elgato Stream Deck devices. [^streamdeck]
@@ -138,18 +142,21 @@ A collection of my recommended and favorite software across different platforms,
 [^atom]: Atom is End of Life as of 2022 and has been archived. Older versions are still available to use.
 
 #### Utilities
+- [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) → ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true)
 - AnyDeck
-- balenaEtcher - Flash OS images to SD cards and USB drives, safely and easily.
+- balenaEtcher → Flash OS images to SD cards and USB drives, safely and easily.
 - CPU-Z
 - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) → A utility that monitors and displays the health of your hard drive, including basic information, S.M.A.R.T. values, and disk temperature. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [File Juggler](https://www.filejuggler.com/) → Automatically renamed, moved and deleted files based on rules. ![Paid](https://github.com/senkawolf/Software-List/blob/main/media/icons/paid14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
-- HWInfo - A comprehensive system information and diagnostic tool that offers an extensive range of features.
+- [Hidden bar](https://github.com/dwarvesf/hidden) → ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true)
+- HWInfo → A comprehensive system information and diagnostic tool that offers an extensive range of features.
 - [LocalSend](https://github.com/localsend/localsend)
 - NordPass
 - Rufus
 - RustDesk
 - ShareX [^sharex]
 - SignalRGB
+- [TopNotch](https://topnotch.app/) → ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true)
 - Ventoy
 - ![Star](https://github.com/senkawolf/Software-List/blob/main/media/icons/star14.png?raw=true) [Windhawk](https://windhawk.net/) → Customization for Windows programs. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true) [^Windhawk]
 - WinDirStat
