@@ -46,7 +46,7 @@ Ensure you have CPU Virtualisation enabled in your BIOS, check this by:
     - Intel CPU: Intel Virttualisation Technology or Intel VT-x.
     - AMD CPU: Secure Virtual Machine, or AMD-V, or AMD SVM.
 
-> [!INFORMATION]
+> [!NOTE]
 > Consult your motherboard manufactures website on how to access the BIOS and locate the CPU Virtualisation setting if you need further assistance.
 
 ![---](https://github.com/senkawolf/Software-List/blob/main/media/icons/line.png?raw=true)
