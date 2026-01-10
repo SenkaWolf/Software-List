@@ -152,6 +152,7 @@ A collection of my recommended and favorite software across different platforms,
 - [Hidden bar](https://github.com/dwarvesf/hidden) → ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true)
 - HWInfo → A comprehensive system information and diagnostic tool that offers an extensive range of features.
 - [LocalSend](https://github.com/localsend/localsend)
+- [MKV Tag Editor](https://www.3delite.hu/Object%20Pascal%20Developer%20Resources/MKVTagEditor.html#help) → A tool designed to edit metadata for MKV, MKA, MK3D, and WEBM files.
 - NordPass
 - Rufus
 - RustDesk
