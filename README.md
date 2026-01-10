@@ -158,6 +158,7 @@ A collection of my recommended and favorite software across different platforms,
 - SignalRGB
 - [TopNotch](https://topnotch.app/) → ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true)
 - Ventoy
+- VMWare Workstation →  Desktop hypervisor for local virtualization of virtual machines.
 - ![Star](https://github.com/senkawolf/Software-List/blob/main/media/icons/star14.png?raw=true) [Windhawk](https://windhawk.net/) → Customization for Windows programs. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true) [^Windhawk]
 - WinDirStat
 - YaTQA
