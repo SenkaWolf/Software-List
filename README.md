@@ -160,12 +160,14 @@ A collection of my recommended and favorite software across different platforms,
 - SignalRGB
 - [TopNotch](https://topnotch.app/) → ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true)
 - Ventoy
-- VMWare Workstation →  Desktop hypervisor for local virtualization of virtual machines.
+- VMWare Workstation Pro →  Desktop hypervisor for local virtualization of virtual machines. [^VMWare]
 - ![Star](https://github.com/senkawolf/Software-List/blob/main/media/icons/star14.png?raw=true) [Windhawk](https://windhawk.net/) → Customization for Windows programs. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true) [^Windhawk]
 - WinDirStat
 - YaTQA
 
 [^sharex]: You'll need a service to upload you're images too. I've always self-hosted [ShareX-Custom-Upload](https://github.com/JoeGandy/ShareX-Custom-Upload) for the past 5 years but this repo isn't being supported anymore. I'd recommended [XBackBone](https://xbackbone.app/) as a alternative, I will be migrating over.
+
+[^VMWare]: See my install guide [here](https://github.com/SenkaWolf/Software-List/blob/main/docs/VMWARE-INSTALL-GUIDE.md).
 
 [^Windhawk]: See my list of mods and config [here](https://github.com/SenkaWolf/Software-List/blob/main/docs/WINDHAWK-MY-SETUP.md).
 
