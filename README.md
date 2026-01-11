@@ -88,10 +88,10 @@ A collection of my recommended and favorite software across different platforms,
 #### Games
 - [Battle.net](https://shop.battle.net/) → A digital distribution service and storefront for Blizzard Entertainment. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [Epic Games](https://epicgames.com/) → A digital distribution service and storefront for video games. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
-- [OpevIV](https://openiv.com/)
+- [OpenIV](https://openiv.com/) → Modification tool for Rockstar games. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [Origin](https://www.ea.com/ea-app) → A digital distribution service and storefront for EA. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - ![Star](https://github.com/senkawolf/Software-List/blob/main/media/icons/star14.png?raw=true) [RetroArch](https://www.retroarch.com/) → A frontend for emulators, game engines and media players. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true) [^retroarch]
-- [Ryjinx](https://ryujinx.app/) → Open-source emulator of the Nintendo Switch 1.
+- [Ryujinx](https://ryujinx.app/) → Open-source emulator for the Nintendo Switch 1. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - ![Star](https://github.com/senkawolf/Software-List/blob/main/media/icons/star14.png?raw=true) [Steam](https://store.steampowered.com/) → A digital distribution service and storefront for video games. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [Uplay](https://www.ubisoft.com/en-gb/ubisoft-connect) → A digital distribution service and storefront for Ubisoft. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [Virtual Desktop Streamer](https://www.vrdesktop.net/) → Use your VR headset tp connect wirelessly to your computer(s) to watch movies, browse the web, play 2D games or stream PCVR games. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
@@ -144,6 +144,7 @@ A collection of my recommended and favorite software across different platforms,
 
 #### Utilities
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) → ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true)
+- AnyBurn
 - AnyDeck
 - balenaEtcher → Flash OS images to SD cards and USB drives, safely and easily.
 - CPU-Z
@@ -156,7 +157,7 @@ A collection of my recommended and favorite software across different platforms,
 - NordPass
 - Rufus
 - RustDesk
-- ShareX [^sharex]
+- ![Star](https://github.com/senkawolf/Software-List/blob/main/media/icons/star14.png?raw=true) ShareX → Screenshot and screencast software. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true) [^sharex]
 - SignalRGB
 - [TopNotch](https://topnotch.app/) → ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true)
 - Ventoy
@@ -167,7 +168,7 @@ A collection of my recommended and favorite software across different platforms,
 
 [^sharex]: You'll need a service to upload you're images too. I've always self-hosted [ShareX-Custom-Upload](https://github.com/JoeGandy/ShareX-Custom-Upload) for the past 5 years but this repo isn't being supported anymore. I'd recommended [XBackBone](https://xbackbone.app/) as a alternative, I will be migrating over.
 
-[^VMWare]: See my install guide [here](https://github.com/SenkaWolf/Software-List/blob/main/docs/VMWARE-INSTALL-GUIDE.md).
+[^VMWare]: See my VMWare install guide [here](https://github.com/SenkaWolf/Software-List/blob/main/docs/VMWARE-INSTALL-GUIDE.md).
 
 [^Windhawk]: See my list of mods and config [here](https://github.com/SenkaWolf/Software-List/blob/main/docs/WINDHAWK-MY-SETUP.md).
 
@@ -212,10 +213,13 @@ A collection of my recommended and favorite software across different platforms,
 
 ## Miscellaneous
 
-- [privacytools.io](https://www.privacytools.io/) → Recommended reading for online privacy.
-- [VirusTotal.com](https://www.virustotal.com) → Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches.
-- [Recorded Future Triage](https://tria.ge/) → Analyse malware samples free using a state-of-the–art malware analysis sandbox.
 - [netboot.xyz](https://netboot.xyz/) → Web-based tool that lets you boot into different operating systems using PXE.
+- [privacytools.io](https://www.privacytools.io/) → Recommended reading for online privacy.
+- [Recorded Future Triage](https://tria.ge/) → Analyse malware samples free using a state-of-the–art malware analysis sandbox.
+- [schneegans.de Unattend Generator](https://schneegans.de/windows/unattend-generator/) → A service which helps generate a `unattend.xml` or `autounattend.xml` file to perform unattended installations of both Windows 10 and Windows 11. ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true) [^automated-windows-install]
+- [VirusTotal.com](https://www.virustotal.com) → Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches.
+
+[^automated-windows-install]: [Here](/docs/AUTOMATED-WINDOWS-INSTALL.md) is my guide on how to setup a unattended install of Windows.
 
 ![---](https://github.com/senkawolf/Software-List/blob/main/media/icons/line.png?raw=true)
 
