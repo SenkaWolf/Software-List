@@ -220,7 +220,7 @@ A collection of my recommended and favorite software across different platforms,
 - [schneegans.de Unattend Generator](https://schneegans.de/windows/unattend-generator/) → A service which helps generate a `unattend.xml` or `autounattend.xml` file to perform unattended installations of both Windows 10 and Windows 11. ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true) [^automated-windows-install]
 - [VirusTotal.com](https://www.virustotal.com) → Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches.
 
-[^automated-windows-install]: [Here](/docs/AUTOMATED-WINDOWS-INSTALL.md) is my guide on how to setup a unattended install of Windows.
+[^automated-windows-install]: [Here](https://github.com/SenkaWolf/Software-List/blob/main/docs/AUTOMATED-WINDOWS-INSTALL.md) is my guide on how to setup a unattended install of Windows.
 
 ![---](https://github.com/senkawolf/Software-List/blob/main/media/icons/line.png?raw=true)
 
