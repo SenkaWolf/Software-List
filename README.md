@@ -205,6 +205,7 @@ A collection of my recommended and favorite software across different platforms,
 ## Guides
 
 - [How To Setup Windows 11 PC Without Microsoft Account](/docs/WINDOWS-SETUP-WITHOUT-MICROSOFT-ACCOUNT.md) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
+- [How to make a automated Windows install ISO](/docs/AUTOMATED-WINDOWS-INSTALL.md)
 - [Show Hidden Files](/docs/WINDOWS-SHOW-HIDDEN-FILES.md) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [XBackBone Config & Setup](/docs/XBACKBONE-MY-CONFIG-SETTINGS.md)
 - [Windhawk Setup](/docs/WINDHAWK-MY-SETUP.md)
