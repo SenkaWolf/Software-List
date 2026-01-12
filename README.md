@@ -52,7 +52,7 @@ A collection of my recommended and favorite software across different platforms,
 
 #### Audio
 - [Cider](https://cider.sh/) → Cross-platform Apple Music experience. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
-- [Sleeve 2](https://replay.software/sleeve) → ![Paid](https://github.com/senkawolf/Software-List/blob/main/media/icons/paid14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true)
+- [Sleeve 2](https://replay.software/sleeve) → Music desktop widget. ![Paid](https://github.com/senkawolf/Software-List/blob/main/media/icons/paid14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true)
 - [Voicemeeter](https://vb-audio.com/Voicemeeter/index.htm) → Audio Mixer Application endowed with Virtual Audio Device used as Virtual I/O to mix and manage any audio sources from or to any audio devices or applications. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [Voicemod](https://www.voicemod.net/) → Real time AI voice changer & soundboard. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [Audacity](https://www.audacityteam.org/) → Recording and editing sounds. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
@@ -110,11 +110,11 @@ A collection of my recommended and favorite software across different platforms,
 #### Productivity
 - [Adobe Acrobat Reader](https://www.adobe.com/acrobat/pdf-reader.html) → PDF reader and editor. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [Chocolatey](https://community.chocolatey.org) → A package manager for Windows. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
-- [Dropover](https://dropoverapp.com/) → ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true)
+- [Dropover](https://dropoverapp.com/) → Drag and drop utility. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true)
 - [f.lux](https://justgetflux.com) → Automatically adjust your computer screen to match lighting. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [Logitech G HUB](https://www.logitechg.com/en-gb/innovation/g-hub.html) → Customize and optimize your Logitech G gaming gear, such as mice, keyboards, headsets, and webcams. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true) [^logitechghub]
-- [Maccy](https://maccy.app/) → ![Paid](https://github.com/senkawolf/Software-List/blob/main/media/icons/paid14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true)
-- [Magnet](https://magnet.crowdcafe.com/) → ![Paid](https://github.com/senkawolf/Software-List/blob/main/media/icons/paid14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true)
+- [Maccy](https://maccy.app/) → Clipboard manager. ![Paid](https://github.com/senkawolf/Software-List/blob/main/media/icons/paid14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true)
+- [Magnet](https://magnet.crowdcafe.com/) → Windows manager like Aero Snap. ![Paid](https://github.com/senkawolf/Software-List/blob/main/media/icons/paid14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true)
 - [Notion](https://www.notion.com) → Productivity and note-taking web application. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true) 
 - [Optimizer](https://github.com/hellzerg/optimizer) → A advanced configuration utility designed to enhance your privacy and security on Windows. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - ![Star](https://github.com/senkawolf/Software-List/blob/main/media/icons/star14.png?raw=true) [Stream Deck](https://www.elgato.com/uk/en/s/downloads) → Client software to work with the Elgato Stream Deck devices. [^streamdeck]
@@ -143,28 +143,28 @@ A collection of my recommended and favorite software across different platforms,
 [^atom]: Atom is End of Life as of 2022 and has been archived. Older versions are still available to use.
 
 #### Utilities
-- [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) → ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true)
-- AnyBurn
-- AnyDeck
-- balenaEtcher → Flash OS images to SD cards and USB drives, safely and easily.
-- CPU-Z
+- [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) → Keep-awake app. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true)
+- [AnyBurn](https://www.anyburn.com/) → Disc burning, imaging, and bootable USB drive creation. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
+- [AnyDeck](https://anydesk.com) → Remote Desktop. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
+- [balenaEtcher](https://etcher.balena.io/) → Flash OS images to SD cards and USB drives, safely and easily. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
+- [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) → Gathers information on main computer components. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) → A utility that monitors and displays the health of your hard drive, including basic information, S.M.A.R.T. values, and disk temperature. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [File Juggler](https://www.filejuggler.com/) → Automatically renamed, moved and deleted files based on rules. ![Paid](https://github.com/senkawolf/Software-List/blob/main/media/icons/paid14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [Hidden bar](https://github.com/dwarvesf/hidden) → ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true)
-- HWInfo → A comprehensive system information and diagnostic tool that offers an extensive range of features.
-- [LocalSend](https://github.com/localsend/localsend)
-- [MKV Tag Editor](https://www.3delite.hu/Object%20Pascal%20Developer%20Resources/MKVTagEditor.html#help) → A tool designed to edit metadata for MKV, MKA, MK3D, and WEBM files.
-- NordPass
-- Rufus
-- RustDesk
+- [HWInfo](https://www.hwinfo.com/) → A comprehensive system information and diagnostic tool that offers an extensive range of features. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
+- [LocalSend](https://github.com/localsend/localsend) → Cross-platform alternative to AirDrop ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
+- [MKV Tag Editor](https://www.3delite.hu/Object%20Pascal%20Developer%20Resources/MKVTagEditor.html#help) → A tool designed to edit metadata for MKV, MKA, MK3D, and WEBM files. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
+- [NordPass](https://nordpass.com/) → Password manager.
+- [Rufus](https://rufus.ie) → A utility that helps format and create bootable USB flash drives.
+- [RustDesk](https://rustdesk.com/) → Remote Desktop.
 - ![Star](https://github.com/senkawolf/Software-List/blob/main/media/icons/star14.png?raw=true) ShareX → Screenshot and screencast software. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true) [^sharex]
-- SignalRGB
-- [TopNotch](https://topnotch.app/) → ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true)
-- Ventoy
-- VMWare Workstation Pro →  Desktop hypervisor for local virtualization of virtual machines. [^VMWare]
+- [SignalRGB](https://signalrgb.com/) → RGB Sync with multiple brand support.
+- [TopNotch](https://topnotch.app/) → Hides MacBook top notch. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true)
+- [Ventoy](https://www.ventoy.net/en/index.html) → Used for creating bootable USB media storage devices
+- [VMWare Workstation Pro](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) →  Desktop hypervisor for local virtualization of virtual machines. [^VMWare]
 - ![Star](https://github.com/senkawolf/Software-List/blob/main/media/icons/star14.png?raw=true) [Windhawk](https://windhawk.net/) → Customization for Windows programs. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true) [^Windhawk]
-- WinDirStat
-- YaTQA
+- [WinDirStat](https://windirstat.net/) → Graphical disk usage analyzer.
+- [YaTQA](https://yat.qa/) → Tool for managing TeamSpeak 3 servers and instances.
 
 [^sharex]: You'll need a service to upload you're images too. I've always self-hosted [ShareX-Custom-Upload](https://github.com/JoeGandy/ShareX-Custom-Upload) for the past 5 years but this repo isn't being supported anymore. I'd recommended [XBackBone](https://xbackbone.app/) as a alternative, I will be migrating over.
 
@@ -173,12 +173,10 @@ A collection of my recommended and favorite software across different platforms,
 [^Windhawk]: See my list of mods and config [here](https://github.com/SenkaWolf/Software-List/blob/main/docs/WINDHAWK-MY-SETUP.md).
 
 #### Video
-- Fraps
-- Medal
+- [Medal.tv](https://medal.tv/) → Record, edit, and share gaming clips platform.
 - ![Star](https://github.com/senkawolf/Software-List/blob/main/media/icons/star14.png?raw=true) [NVIDIA ShadowPlay](https://www.nvidia.com/en-me/software/nvidia-app/www.nvidia.com/en-gb/geforce/geforce-experience/shadowplay/) → Hardware-accelerated screen recording utility available as part of Nvidia's GeForce Experience and Nvidia App softwares for GeForce GPUs. ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
-- OBS
-- Plex Desktop
-- Sony Vegas Pro
+- [Open Broadcaster Software (OBS)](https://obsproject.com/) → Video recording and live streaming software.
+- [Sony Vegas Pro](https://www.vegascreativesoftware.com/us/vegas-pro/) → Video editor.
 - [VLC](https://www.videolan.org/vlc/) → Multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 
 #### Web Browser
@@ -191,14 +189,14 @@ A collection of my recommended and favorite software across different platforms,
 - [2FAS](https://2fas.com) - [Chromium](https://chromewebstore.google.com/detail/2fas-two-factor-authentic/dbfoemgnkgieejfkaddieamagdfepnff?pli=1)/[Firefox](https://addons.mozilla.org/en-US/firefox/addon/2fas-two-factor-authentication/) → One click and your 2FA token is automatically entered. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Browser Extensions](https://github.com/senkawolf/Software-List/blob/main/media/icons/extensions14.png?raw=true) [^2fas]
 - [AdGuard Adblocker](https://adguard.com) - [Chromium](https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg)/[Firefox](https://addons.mozilla.org/en-US/firefox/addon/adguard-adblocker/) → Blocks against advertising on Facebook, Youtube and more plus pop-ups. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Browser Extensions](https://github.com/senkawolf/Software-List/blob/main/media/icons/extensions14.png?raw=true)
 - [Chrome Mask](https://github.com/denschub/chrome-mask) - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chrome-mask/) → A one-click toggle to spoof as Chrome in Firefox. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Browser Extensions](https://github.com/senkawolf/Software-List/blob/main/media/icons/extensions14.png?raw=true)
-- ClearURLs
-- NordPass
-- NordVPN
-- Privacy Badger
-- SimpleLogin
-- SponsorBlock for YouTube
+- [ClearURLs](https://github.com/ClearURLs/Addon) - Chromium/Firefox → Automatically remove tracking elements from URLs. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Browser Extensions](https://github.com/senkawolf/Software-List/blob/main/media/icons/extensions14.png?raw=true)
+- [NordPass](https://nordpass.com/download/chrome/) - Chromium/Firefox → Use NordPass within your web browser. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Browser Extensions](https://github.com/senkawolf/Software-List/blob/main/media/icons/extensions14.png?raw=true)
+- [NordVPN](https://nordvpn.com/features/proxy-extension/) - Chromium/Firefox → VPN proxy extension for your web browser. ![Paid](https://github.com/senkawolf/Software-List/blob/main/media/icons/paid14.png?raw=true) ![Browser Extensions](https://github.com/senkawolf/Software-List/blob/main/media/icons/extensions14.png?raw=true)
+- [Privacy Badger](https://privacybadger.org/) - Chromium/Firefox → Stops advertisers and other third-party trackers. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Browser Extensions](https://github.com/senkawolf/Software-List/blob/main/media/icons/extensions14.png?raw=true)
+- [SimpleLogin](https://simplelogin.io/) - Chromium/Firefox → Create and manage email aliases. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Browser Extensions](https://github.com/senkawolf/Software-List/blob/main/media/icons/extensions14.png?raw=true)
+- [SponsorBlock for YouTube](https://sponsor.ajay.app/) - Chromium/Firefox → Used for skipping sponsor segments in YouTube videos. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Browser Extensions](https://github.com/senkawolf/Software-List/blob/main/media/icons/extensions14.png?raw=true)
 
-[^2fas]: Requires mobile app to pair with extension.
+[^2fas]: 2FAS requires the mobile app to pair with extension.
 
 ![---](https://github.com/senkawolf/Software-List/blob/main/media/icons/line.png?raw=true)
 
