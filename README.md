@@ -10,8 +10,8 @@ A collection of my recommended and favorite software across different platforms,
 > - *Items marked with ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true) are for Windows Operating Systems.*
 > - *Items marked with ![Service](https://github.com/senkawolf/Software-List/blob/main/media/icons/service14.png?raw=true) is a service and not software.*
 > - *Items marked with ![Browser Extensions](https://github.com/senkawolf/Software-List/blob/main/media/icons/extensions14.png?raw=true) are Browser Extensions. I will try to link to Chromium and Firefox versions.*
-> - *Items marked with ![Browser Extensions](https://github.com/senkawolf/Software-List/blob/main/media/icons/dev14.png?raw=true) are Development Tools.*
-> - *Items marked with ![Browser Extensions](https://github.com/senkawolf/Software-List/blob/main/media/icons/star14.png?raw=true) are my daily used software/services.*
+> - *Items marked with ![Dev Tools](https://github.com/senkawolf/Software-List/blob/main/media/icons/dev14.png?raw=true) are Development Tools.*
+> - *Items marked with ![Star](https://github.com/senkawolf/Software-List/blob/main/media/icons/star14.png?raw=true) are my daily used software/services.*
 
 > [!NOTE]
 > Icon by <a target="_blank" href="https://icons8.com">Icons8</a>
