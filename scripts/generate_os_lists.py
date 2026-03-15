@@ -3,7 +3,9 @@ from pathlib import Path
 README = Path("README.md")
 DOCS = Path("docs")
 
-text = README.read_text(encoding="utf-8").splitlines()
+lines = README.read_text(encoding="utf-8").splitlines()
+
+SEPARATOR = "![---](https://github.com/senkawolf/Software-List/blob/main/media/icons/line.png?raw=true)"
 
 OS_ICONS = {
     "windows": "windows14.png",
@@ -17,19 +19,34 @@ OS_TITLES = {
     "macos": "macOS Software"
 }
 
+# NEW: Define the filenames for generated pages
+OS_FILENAMES = {
+    "windows": "WINDOWS-SOFTWARE.md",
+    "linux": "LINUX-SOFTWARE.md",
+    "macos": "MACOS-SOFTWARE.md"
+}
+
 results = {
     "windows": {},
     "linux": {},
     "macos": {}
 }
 
-current_section = None
+current_main_section = None
+current_category = None
 
-for line in text:
 
-    # Detect section headings like #### Audio
+for line in lines:
+
+    # Detect main sections
+    if line.startswith("## "):
+        current_main_section = line.strip()
+        current_category = None
+        continue
+
+    # Detect category headings
     if line.startswith("#### "):
-        current_section = line.strip()
+        current_category = line.strip()
         continue
 
     # Detect list entries
@@ -39,10 +56,15 @@ for line in text:
 
             if icon in line:
 
-                if current_section not in results[os_name]:
-                    results[os_name][current_section] = []
+                if current_main_section not in results[os_name]:
+                    results[os_name][current_main_section] = {}
 
-                results[os_name][current_section].append(line)
+                category = current_category or "Other"
+
+                if category not in results[os_name][current_main_section]:
+                    results[os_name][current_main_section][category] = []
+
+                results[os_name][current_main_section][category].append(line)
 
 
 def write_file(os_name):
@@ -51,24 +73,30 @@ def write_file(os_name):
 
     output = f"# {title}\n\n"
 
-    # Badge-style back button
     output += "[![Back](https://img.shields.io/badge/⬅%20Back-Main%20Software%20List-blue)](../README.md)\n\n"
-
-    output += "---\n\n"
+    output += f"{SEPARATOR}\n\n"
     output += "*Automatically generated from README.md*\n\n"
 
     sections = results[os_name]
 
-    for section, items in sections.items():
+    for main_section, categories in sections.items():
 
-        output += f"{section}\n"
+        # Add separator before each major section
+        output += f"{SEPARATOR}\n\n"
+        output += f"{main_section}\n\n"
 
-        for item in items:
-            output += item + "\n"
+        for category, items in categories.items():
 
-        output += "\n"
+            if category != "Other":
+                output += f"{category}\n"
 
-    path = DOCS / f"{os_name.upper()}.md"
+            for item in items:
+                output += item + "\n"
+
+            output += "\n"
+
+    # Use the custom filenames
+    path = DOCS / OS_FILENAMES[os_name]
     path.write_text(output, encoding="utf-8")
 
 
