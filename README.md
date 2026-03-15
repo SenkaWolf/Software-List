@@ -19,7 +19,15 @@ A collection of my recommended and favorite software across different platforms,
 
 ![---](https://github.com/senkawolf/Software-List/blob/main/media/icons/line.png?raw=true)
 
-## Table of Contents
+## Filter by Operating System
+
+| OS | Link |
+|---|---|
+| ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true) Windows | [View Windows Software](docs/WINDOWS.md) |
+| ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) macOS | [View macOS Software](docs/MACOS.md) |
+| ![Linux](https://github.com/senkawolf/Software-List/blob/main/media/icons/linux14.png?raw=true) Linux | [View Linux Software](docs/LINUX.md) |
+
+### Table of Contents
 
 <details>
  <summary>Table of Contents</summary>
