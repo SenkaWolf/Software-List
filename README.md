@@ -23,9 +23,9 @@ A collection of my recommended and favorite software across different platforms,
 
 | OS | Link |
 |---|---|
-| ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true) Windows | [View Windows Software](docs/WINDOWS.md) |
-| ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) macOS | [View macOS Software](docs/MACOS.md) |
-| ![Linux](https://github.com/senkawolf/Software-List/blob/main/media/icons/linux14.png?raw=true) Linux | [View Linux Software](docs/LINUX.md) |
+| ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true) Windows | [View Windows Software](docs/WINDOWS-SOFTWARE.md) |
+| ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) macOS | [View macOS Software](docs/MACOS-SOFTWARE.md) |
+| ![Linux](https://github.com/senkawolf/Software-List/blob/main/media/icons/linux14.png?raw=true) Linux | [View Linux Software](docs/LINUX-SOFTWARE.md) |
 
 ### Table of Contents
 
