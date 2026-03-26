@@ -264,11 +264,12 @@ A collection of my recommended and favorite software across different platforms,
 
 ## Guides
 
+- [Beginner Exploring Linux](https://github.com/SenkaWolf/Beginner-Exploring-Linux) ![Linux](https://github.com/senkawolf/Software-List/blob/main/media/icons/linux14.png?raw=true)
 - [How To Setup Windows 11 PC Without Microsoft Account](/docs/WINDOWS-SETUP-WITHOUT-MICROSOFT-ACCOUNT.md) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [How to make a automated Windows install ISO](/docs/AUTOMATED-WINDOWS-INSTALL.md) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [Show Hidden Files](/docs/WINDOWS-SHOW-HIDDEN-FILES.md) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [XBackBone Config & Setup](/docs/XBACKBONE-MY-CONFIG-SETTINGS.md)
-- [Windhawk Setup](/docs/WINDHAWK-MY-SETUP.md)
+- [Windhawk Setup](/docs/WINDHAWK-MY-SETUP.md) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 
 ![---](https://github.com/senkawolf/Software-List/blob/main/media/icons/line.png?raw=true)
 
@@ -276,6 +277,7 @@ A collection of my recommended and favorite software across different platforms,
 
 - [netboot.xyz](https://netboot.xyz/) → Web-based tool that lets you boot into different operating systems using PXE.
 - [privacytools.io](https://www.privacytools.io/) → Recommended reading for online privacy.
+- [ProtonDB](https://www.protondb.com) → Check games compatibility on Linux. ![Linux](https://github.com/senkawolf/Software-List/blob/main/media/icons/linux14.png?raw=true)
 - [Recorded Future Triage](https://tria.ge/) → Analyse malware samples free using a state-of-the–art malware analysis sandbox.
 - [schneegans.de Unattend Generator](https://schneegans.de/windows/unattend-generator/) → A service which helps generate a `unattend.xml` or `autounattend.xml` file to perform unattended installations of both Windows 10 and Windows 11. ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true) [^automated-windows-install]
 - [VirusTotal.com](https://www.virustotal.com) → Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches.
