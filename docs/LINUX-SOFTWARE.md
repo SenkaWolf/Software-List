@@ -17,6 +17,7 @@
 
 #### Backup
 - [Rclone](https://rclone.org/) → A command-line program to manage files on cloud storage. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Linux](https://github.com/senkawolf/Software-List/blob/main/media/icons/linux14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
+- [Rclone browser](https://github.com/kapitainsky/RcloneBrowser) → A simple cross platform GUI for Rclone. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Linux](https://github.com/senkawolf/Software-List/blob/main/media/icons/linux14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 
 #### Communication
 - [Discord](https://discord.com) → A instant messaging and VoIP social platform. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Linux](https://github.com/senkawolf/Software-List/blob/main/media/icons/linux14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
@@ -56,6 +57,7 @@
 - [LibreOffice](https://www.libreoffice.org/) → Office productivity software suite. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Linux](https://github.com/senkawolf/Software-List/blob/main/media/icons/linux14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [OpenDeck](https://github.com/nekename/OpenDeck) → Desktop application for using Elgato Stream Deck. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Linux](https://github.com/senkawolf/Software-List/blob/main/media/icons/linux14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [Piper](https://github.com/libratbag/piper) → GTK application to configure gaming devices. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Linux](https://github.com/senkawolf/Software-List/blob/main/media/icons/linux14.png?raw=true)
+- [Solaar](https://github.com/pwr-Solaar/Solaar) → Linux device manager for Logitech devices. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Linux](https://github.com/senkawolf/Software-List/blob/main/media/icons/linux14.png?raw=true)
 - [Vicinae](https://www.vicinae.com/) → Native launcher for your desktop. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Linux](https://github.com/senkawolf/Software-List/blob/main/media/icons/linux14.png?raw=true)
 - [WinBoat](https://www.winboat.app/) → Electron app which allows you to run Windows apps on Linux using a containerized approach. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Linux](https://github.com/senkawolf/Software-List/blob/main/media/icons/linux14.png?raw=true)
 
@@ -106,4 +108,16 @@
 - [Brave](https://brave.com) → Fast, secure, and privacy-focused Chromium browser that blocks ads and trackers, and offers a built-in VPN, AI assistant, and search engine. ![Freeware](https://github.com/senkawolf/Software-List/blob/main/media/icons/freeware14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Linux](https://github.com/senkawolf/Software-List/blob/main/media/icons/linux14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
 - [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) → Chromium browser with a lightweight approach to removing Google web service dependency. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Linux](https://github.com/senkawolf/Software-List/blob/main/media/icons/linux14.png?raw=true)
 - ![Star](https://github.com/senkawolf/Software-List/blob/main/media/icons/star14.png?raw=true) [Zen Browser](https://zen-browser.app/) → Open-source fork of Mozilla Firefox, with its main focus being privacy and customizability. ![Open-Source Software](https://github.com/senkawolf/Software-List/blob/main/media/icons/opensource14.png?raw=true) ![Apple](https://github.com/senkawolf/Software-List/blob/main/media/icons/apple14.png?raw=true) ![Linux](https://github.com/senkawolf/Software-List/blob/main/media/icons/linux14.png?raw=true) ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true)
+
+![---](https://github.com/senkawolf/Software-List/blob/main/media/icons/line.png?raw=true)
+
+## Guides
+
+- [Beginner Exploring Linux](https://github.com/SenkaWolf/Beginner-Exploring-Linux) ![Linux](https://github.com/senkawolf/Software-List/blob/main/media/icons/linux14.png?raw=true)
+
+![---](https://github.com/senkawolf/Software-List/blob/main/media/icons/line.png?raw=true)
+
+## Miscellaneous
+
+- [ProtonDB](https://www.protondb.com) → Check games compatibility on Linux. ![Linux](https://github.com/senkawolf/Software-List/blob/main/media/icons/linux14.png?raw=true)
 
