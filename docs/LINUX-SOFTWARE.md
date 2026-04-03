@@ -121,3 +121,7 @@
 
 - [ProtonDB](https://www.protondb.com) → Check games compatibility on Linux. ![Linux](https://github.com/senkawolf/Software-List/blob/main/media/icons/linux14.png?raw=true)
 
+
+[^VMWare]: See my VMWare install guide [here](https://github.com/SenkaWolf/Software-List/blob/main/docs/VMWARE-INSTALL-GUIDE.md).
+[^atom]: Atom is End of Life as of 2022 and has been archived. Older versions are still available to use.
+[^retroarch]: You can see my RetroArch setup [here](https://github.com/SenkaWolf/Senkas-Retroarch-Setup).

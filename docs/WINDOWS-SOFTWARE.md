@@ -150,3 +150,12 @@
 
 - [schneegans.de Unattend Generator](https://schneegans.de/windows/unattend-generator/) → A service which helps generate a `unattend.xml` or `autounattend.xml` file to perform unattended installations of both Windows 10 and Windows 11. ![Windows](https://github.com/senkawolf/Software-List/blob/main/media/icons/windows14.png?raw=true) [^automated-windows-install]
 
+
+[^VMWare]: See my VMWare install guide [here](https://github.com/SenkaWolf/Software-List/blob/main/docs/VMWARE-INSTALL-GUIDE.md).
+[^Windhawk]: See my list of mods and config [here](https://github.com/SenkaWolf/Software-List/blob/main/docs/WINDHAWK-MY-SETUP.md).
+[^atom]: Atom is End of Life as of 2022 and has been archived. Older versions are still available to use.
+[^automated-windows-install]: [Here](https://github.com/SenkaWolf/Software-List/blob/main/docs/AUTOMATED-WINDOWS-INSTALL.md) is my guide on how to setup a unattended install of Windows.
+[^logitechghub]: Logitech G HUB only works with Logitech gaming products, you will need [Logi Options+](https://www.logitech.com/en-gb/setup/ergosetup/logi-options.html) for there non-gaming lineup.
+[^retroarch]: You can see my RetroArch setup [here](https://github.com/SenkaWolf/Senkas-Retroarch-Setup).
+[^sharex]: You'll need a service to upload you're images too. I've always self-hosted [ShareX-Custom-Upload](https://github.com/JoeGandy/ShareX-Custom-Upload) for the past 5 years but this repo isn't being supported anymore. I'd recommended [XBackBone](https://xbackbone.app/) as a alternative, I will be migrating over.
+[^streamdeck]: Either Stream Deck [IOS](https://apps.apple.com/gb/app/elgato-stream-deck-mobile/id1440014184) or [Android](https://play.google.com/store/apps/details?id=com.corsair.android.streamdeck&hl=en-US&pli=1) mobile app or Stream Deck device is needed.
